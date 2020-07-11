@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m Buddhika and I :heart: open source.
-- 🌱 I’m currently working on GSoC 2020
 - 👯 I’m on [Twitter](https://twitter.com/hackerbuddyc96)
 - 🤔 I’m on [Stackoverflow](https://stackoverflow.com/users/5837376/hackerbuddy)
 
