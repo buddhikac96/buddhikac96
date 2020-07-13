@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m Buddhika and I :heart: open source.
-- 👯 I’m on [Twitter](https://twitter.com/hackerbuddyc96)
-- 🤔 I’m on [Stackoverflow](https://stackoverflow.com/users/5837376/hackerbuddy)
+- :computer: I’m Buddhika and I :heart: open source.
+- 📱 I’m on [Twitter](https://twitter.com/hackerbuddyc96)
+- :question: I’m on [Stackoverflow](https://stackoverflow.com/users/5837376/hackerbuddy)
+- :book: I love blogging in my spare time. Find some interesting articles published in [Medium](https://medium.com/runtimeerror)
 
 <!--
 **buddhikac96/buddhikac96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
