@@ -5,7 +5,7 @@
 - :question: I’m on [Stackoverflow](https://stackoverflow.com/users/5837376/hackerbuddy)
 - :book: I love blogging in my spare time. Find some interesting articles published in [Medium](https://medium.com/runtimeerror)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=buddhikac96)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=buddhikac96&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **buddhikac96/buddhikac96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
