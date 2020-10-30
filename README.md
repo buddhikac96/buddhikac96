@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 👋
 
 - :computer: I’m Buddhika and I :heart: open source.
 - 📱 Find me on [Twitter](https://twitter.com/hackerbuddyc96)
