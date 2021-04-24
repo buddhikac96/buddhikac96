@@ -1,6 +1,7 @@
 ### Hello World! 👋
 
-- :computer: I’m Buddhika <b>(just another engineer)</b> and I :heart: open source.
+- :computer: I’m Buddhika and I :heart: open source.
+- Just another engineer
 - 📱 Find me on [Twitter](https://twitter.com/hackerbuddyc96)
 - :question: Ask me in [Stackoverflow](https://stackoverflow.com/users/5837376/hackerbuddy)
 - :book: Read my blog in [Medium](https://medium.com/runtimeerror)
