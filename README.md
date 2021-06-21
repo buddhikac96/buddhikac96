@@ -1,10 +1,9 @@
 ### Hello World! 👋
 
-- :computer: I’m Buddhika and I :heart: open source.
-- Just another engineer
-- 📱 Find me on [Twitter](https://twitter.com/hackerbuddyc96)
-- :question: Ask me in [Stackoverflow](https://stackoverflow.com/users/5837376/hackerbuddy)
-- :book: Read my blog in [Medium](https://medium.com/runtimeerror)
+Just another engineer
+- [Twitter](https://twitter.com/hackerbuddyc96)
+- [Stackoverflow](https://stackoverflow.com/users/5837376/hackerbuddy)
+- [Medium](https://medium.com/runtimeerror)
 
 <!--- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=buddhikac96&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
